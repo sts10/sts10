@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I'm currently working on [creating word lists](https://github.com/sts10/generated-wordlists)
+- 🔭 I'm currently working on [creating word lists](https://github.com/sts10/generated-wordlists).
 - 📒 I'm interested in passphrases, technical writing, documentation, security, privacy, user education, and archiving.
 - 🔍 I'm looking for work!
 - 📫 How to reach me: [samschlinkert.com](https://www.samschlinkert.com/#contact) 
