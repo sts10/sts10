@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🛠️  I'm currently contributing to [Hush Line](https://hushline.app/), an anonymous tip line.
+- 🛠️  I'm currently improving [my passphrase generator, Phraze,](https://github.com/sts10/phraze) and contributing to [Hush Line](https://hushline.app/), an anonymous tip line.
 - 📒 I'm interested in passphrases, technical writing, documentation, security, privacy, user education, and archiving.
 - 💪 Some things I'm proud of: [Orchard Street Wordlists](https://github.com/sts10/orchard-street-wordlists) and [Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html)
 - 🔍 I'm looking for work!
